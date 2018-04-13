@@ -2,7 +2,9 @@
 
 # 動作確認環境
 
-Windows
+Python 3.6.3
+Windows10 64bit
+
 
 # 動かすには
 
@@ -11,7 +13,7 @@ Windows
 > Download Python | Python.org  
 > https://www.python.org/downloads/
 
-* 外部モジュール(Mastodon.py / colorama)を使っています。まとめてpipしておきましょう。
+* 外部サードパーティモジュール(Mastodon.py / colorama)を使っています。まとめてpipしておきます。
 
 > pip install -r requirements.txt
 
