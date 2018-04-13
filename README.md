@@ -1,10 +1,24 @@
 # Pawoo のフォローの Sensitive な画像を一括で落とすスクリプト
 
+# 動作確認環境
+
+Windows
+
 # 動かすには
 
-* まず以下のページにアクセスして client_id/client_secret を取得する必要があります(ソースに書けないですし）
+* Python3用のスクリプトなので、無いならインストールする必要があります。
 
-> Access Token Generator for Mastodon API
+> Download Python | Python.org  
+> https://www.python.org/downloads/
+
+* 外部モジュール(Mastodon.py / colorama)を使っています。まとめてpipしておきましょう。
+
+> pip install -r requirements.txt
+
+
+* 次に、以下のページにアクセスして client_id/client_secret を取得する必要があります(ソースに書けないですし）
+
+> Access Token Generator for Mastodon API  
 > https://takahashim.github.io/mastodon-access-token/
 
 * Mastodon URL -> https://pawoo.net
