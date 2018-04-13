@@ -41,7 +41,7 @@
 * API 制限(5 分で 300 回）のため、途中でフリーズしたかのように止まるタイミングがありますが、待っていればそのうち再開します
 * 将来的に怒られたりブロックされる可能性も否定できない
 
-2018 Chom P.
-https://twitter.com/chom
-http://chomstudio.com
+2018 Chom P.  
+https://twitter.com/chom  
+http://chomstudio.com  
 http://chomstudio.sblo.jp/
