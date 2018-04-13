@@ -1,0 +1,2 @@
+colorama==0.3.9
+Mastodon.py==1.2.2
